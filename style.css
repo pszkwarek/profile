@@ -1,0 +1,88 @@
+body {
+  background-color: #E8E8E8;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(30,30,30);
+}
+
+h1, h2, h3 {
+  font-family: helvetica;
+}
+
+h1 {
+  color: #F78E69;
+  font-size: 24px;
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  margin: 50px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.poster {
+  width: 100px;
+  height: 150px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.movies p {
+  padding-left: 40px;
+}
+
+
+a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FC814A;
+  text-decoration: none;
+}
+p {
+  text-align: justify;
+}
+
+.btn-coral{
+  background-color: #F78E69;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-coral:hover{
+  background-color: #FC814A;
+  color: white;
+}
+
+.list-inline li i{
+  font-size: 35px;
+}
+
